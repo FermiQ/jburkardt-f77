@@ -1,0 +1,10 @@
+anyplt/anybug.f
+anyplt/anycgm.f
+anyplt/anymac.f
+anyplt/anynul.f
+anyplt/anytty.f
+args/args.f
+asa005/asa005.f
+asa006/asa006.f
+asa007/asa007.f
+asa032/asa032.f
